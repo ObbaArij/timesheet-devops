@@ -19,7 +19,7 @@ import javax.persistence.TemporalType;
 public class User implements Serializable {
 
 //testArijtest
-
+//test222
 	private static final long serialVersionUID = 1L;
 
 	@Id
